@@ -11,6 +11,7 @@
 		4B1824E72B720FF7009E7D86 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1824E62B720FF7009E7D86 /* ContentView.swift */; };
 		4B1824E92B720FF8009E7D86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1824E82B720FF8009E7D86 /* Assets.xcassets */; };
 		4B1824EC2B720FF8009E7D86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1824EB2B720FF8009E7D86 /* Preview Assets.xcassets */; };
+		4B1824F32B72124D009E7D86 /* FloatingMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1824F22B72124D009E7D86 /* FloatingMenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4B1824E62B720FF7009E7D86 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4B1824E82B720FF8009E7D86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B1824EB2B720FF8009E7D86 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B1824F22B72124D009E7D86 /* FloatingMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingMenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				4B1824E62B720FF7009E7D86 /* ContentView.swift */,
 				4B1824E82B720FF8009E7D86 /* Assets.xcassets */,
 				4B1824EA2B720FF8009E7D86 /* Preview Content */,
+				4B1824F22B72124D009E7D86 /* FloatingMenuView.swift */,
 			);
 			path = FloatingMenu;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B1824E72B720FF7009E7D86 /* ContentView.swift in Sources */,
+				4B1824F32B72124D009E7D86 /* FloatingMenuView.swift in Sources */,
 				4B1824E52B720FF7009E7D86 /* FloatingMenuApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
